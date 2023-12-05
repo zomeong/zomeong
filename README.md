@@ -13,7 +13,7 @@ I hope to Backend-Engineer
   
   ## 🖥️ Skills
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   ![c](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
