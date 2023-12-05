@@ -4,7 +4,7 @@ Hi there 👋
 I hope to Backend-Engineer
   
   [![velog](https://img.shields.io/badge/Blog-181717?style=flat-round&logo=Github&logoColor=white)](https://velog.io/@zo_meong)
-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](legojhk@gmail.com)
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white&link=mailto:legojhk@gmail.com)]
   [![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=slack&logoColor=white)](legojhk@gmail.com)
   
   ## 🖥️ My Tech
