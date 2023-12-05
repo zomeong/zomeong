@@ -1,6 +1,6 @@
 <div align=center>
   
-**Kim Jihyun** 
+## Kim Jihyun
   
   [![img](https://img.shields.io/badge/Blog-181717?style=flat-round&logo=Github&logoColor=white)](https://velog.io/@zo_meong)
   [![img](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](legojhk@gmail.com) 
@@ -13,4 +13,5 @@
   ![img](https://camo.githubusercontent.com/1ec2aec974985eb39caa286952b54a8f8401948dba21ab975ec62b9411dddeca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d6f72616e67653f6c6f676f3d4a617661)
   ![img](https://camo.githubusercontent.com/2d9268e85f3ec3cc97f5288b7deec43c3913ad60a366b765dd62cd3d4abb0c5d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d677265656e3f6c6f676f3d737072696e67)
   ![img](https://camo.githubusercontent.com/30fc974436f94a5ceb4caef93e7ac754b626a0b68d4ec8842fb0aa8d5599443d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e6720426f6f742d677265656e3f6c6f676f3d737072696e67626f6f74)
+  ![img](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
