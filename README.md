@@ -3,7 +3,7 @@
   ## Kim Jihyun
   
   [![img](https://img.shields.io/badge/Blog-181717?style=flat-round&logo=Github&logoColor=white)](https://velog.io/@zo_meong)
-  [![img](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](legojhk@gmail.com) 
+  [![img](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](legojhk@gmail.com) 
   
   ## Tech
 
