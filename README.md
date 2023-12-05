@@ -2,7 +2,7 @@
 
 # ✨ About Me
 
-Hi there 👋 I'm Kim Jihyun
+Hi there 👋 I'm Kim Jihyun<br>
 I hope to Backend-Engineer
   
   [![velog](https://img.shields.io/badge/Velog-20C997?style=flat-round&logo=Velog&logoColor=white)](https://velog.io/@zo_meong)
@@ -11,7 +11,7 @@ I hope to Backend-Engineer
 
   <br>
   
-  ## 🖥️ Skills
+  ## 🖥️ Tech Stack
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
