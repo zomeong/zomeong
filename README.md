@@ -9,7 +9,7 @@ I hope to Backend-Engineer
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](mailto:legojhk@gmail.com)
   [![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=slack&logoColor=white)](slack://user?team=)
   
-  ## 🖥️ Skills
+  # 🖥️ Skills
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong)](https://github.com/anuraghazra/github-readme-stats)
 
