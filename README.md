@@ -8,8 +8,10 @@ I hope to Backend-Engineer
   [![velog](https://img.shields.io/badge/Velog-20C997?style=flat-round&logo=Velog&logoColor=white)](https://velog.io/@zo_meong)
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](mailto:legojhk@gmail.com)
   [![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=slack&logoColor=white)](slack://user?team=)
+
+  <br>
   
-  # 🖥️ Skills
+  ## 🖥️ Skills
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong)](https://github.com/anuraghazra/github-readme-stats)
 
