@@ -1,4 +1,4 @@
-# Kim Jihyun
+# ✨ Kim Jihyun
 
 Hi there 👋
 I hope to Backend-Engineer
@@ -7,7 +7,7 @@ I hope to Backend-Engineer
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-round&logo=gmail&logoColor=white)](legojhk@gmail.com)
   [![slack](https://img.shields.io/badge/Slack-4A154B?style=flat-round&logo=slack&logoColor=white)](legojhk@gmail.com)
 
-  https://github-readme-stats.vercel.app/api?username=zomeong&theme=blue-green
+  https://github-readme-stats.vercel.app/api?username={zomeong}&theme=blue-green
   
   ## 🖥️ My Tech
 
