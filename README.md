@@ -14,6 +14,7 @@ I hope to Backend-Engineer
   ## 🖥️ Tech Stack
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomeong&theme=dark&show_icons=true)](https://github.com/zomeong/github-readme-stats) -->
 
   ![c](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
