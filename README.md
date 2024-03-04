@@ -13,9 +13,6 @@ I hope to Backend-Engineer
   
   ## 🖥️ Tech Stack
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomeong&theme=dark&show_icons=true)](https://github.com/zomeong/github-readme-stats) -->
-
   ![c](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -23,5 +20,14 @@ I hope to Backend-Engineer
   ![mysql](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+  <br>
+
+  ## 🔥 Status
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomeong&theme=dark&show_icons=true)](https://github.com/zomeong/github-readme-stats) -->
+<a href="https://github.com/zomeong/github-readme-stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=zomeong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</a>
 
 </div>
