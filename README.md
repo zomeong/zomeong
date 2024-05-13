@@ -18,11 +18,11 @@ I hope to Backend-Engineer
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=white)
   ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-round&logo=Spring%20Boot&logoColor=white)
   <br>
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-round&logo=amazon-aws&logoColor=white)
   ![mysql](https://img.shields.io/badge/MySQL-005C84?style=flat-round&logo=mysql&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-round&logo=githubactions&logoColor=white)
   ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-round&logo=html5&logoColor=white)
   ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-round&logo=css3&logoColor=white)
-
   <br>
 
   ## 🔥 Status
