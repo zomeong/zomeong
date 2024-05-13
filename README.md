@@ -27,9 +27,10 @@ I hope to Backend-Engineer
 
   ## 🔥 Status
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomeong&theme=dark&show_icons=true)](https://github.com/zomeong/github-readme-stats) -->
-<a href="https://github.com/zomeong/github-readme-stats">
+  [![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=zomeong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/zomeong/github-readme-stats)
+
+<!-- <a href="https://github.com/zomeong/github-readme-stats">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=zomeong&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-</a>
+</a> -->
 
 </div>
