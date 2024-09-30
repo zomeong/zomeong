@@ -13,9 +13,9 @@ I hope to Backend-Engineer
   
   ## 🖥️ Tech Stack
 
-  ![c](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-round&logo=c%2B%2B&logoColor=white)
   ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-round&logo=openjdk&logoColor=white)
   ![python](https://img.shields.io/badge/python-3776AB?style=flat-round&logo=Python&logoColor=white)
+  ![c](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-round&logo=c%2B%2B&logoColor=white)
   ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-round&logo=Spring%20Boot&logoColor=white)
   <br>
   ![mysql](https://img.shields.io/badge/MySQL-005C84?style=flat-round&logo=mysql&logoColor=white)
